@@ -1217,6 +1217,10 @@ input::-moz-focus-inner {
   background-color: #f1f1f1;
 }
 
+.white {
+  background-color: #ffffff;
+}
+
 
 /* ------------------------------------------------------------------- 
  * ## display headings
@@ -1791,7 +1795,7 @@ input::-moz-focus-inner {
 }
 .home-sidelinks a {
   display: block;
-  padding: 2.1rem 15rem 2.1rem 4rem;
+  padding: 2.1rem 10rem 2.1rem 4rem;
   color: #ffffff;
 }
 .home-sidelinks span {
@@ -2995,7 +2999,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-main {
-  margin-top: 14.4rem;
+  margin-top: 4.8rem;
   margin-bottom: 4.8rem;
 }
 
