@@ -1,2 +1,3 @@
 # IEI Thapar Students' Chapter
-Official Website of IEI - TIET Patiala
+Website of IEI - TIET Patiala
+Version 2018
